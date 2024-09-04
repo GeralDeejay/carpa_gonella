@@ -39,6 +39,10 @@
 		{
 			"Name": "MIDIDevice",
 			"Enabled": true
+		},
+		{
+			"Name": "NDIIOPlugin",
+			"Enabled": true
 		}
 	]
 }
